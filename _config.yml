@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            bitbanded.io
+tagline:          "Mike's personal projects"
+description:      'The personal projects of Mike Kapuscik'
+url:              http://bitbanded.io
+baseurl:          /
+
+author:
+  name:              Mike Kapuscik
+  url:               https://twitter.com/mofofo900
+  email:             mike@bitbanded.io
+
+paginate:         2
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mkapuscik
+
+gems: [jekyll-paginate,jekyll-gist]
