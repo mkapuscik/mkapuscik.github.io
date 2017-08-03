@@ -7,5 +7,6 @@ title: About
 This site is a place for me to document some of my personal projects.
 
 ## Me ##
-I'm a EE student and currently a hardware engineer at 222 Labs.
+I'm a EE student and currently an embedded systems consultant working with Toyon Research Corp. and Bell-Everman Inc.
+
 
