@@ -11,7 +11,7 @@ title:            bitbanded.io
 tagline:          "Mike's personal projects"
 description:      'The personal projects of Mike Kapuscik'
 url:              http://bitbanded.io
-baseurl:          /hyde
+baseurl:          /hyde/
 
 author:
   name:              Mike Kapuscik
